@@ -1,0 +1,2 @@
+# -XGBoost-Based-Hybrid-Energy-Management-Strategy
+An intelligent Energy Management Strategy for Battery–Fuel Cell Hybrid Electric Vehicles that integrates XGBoost-based excess and deficit power mode classification with fuzzy logic control. The system optimizes real-time power sharing, enhances energy efficiency, reduces battery stress, extends component lifespan, and improves overall performance.
